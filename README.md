@@ -4,11 +4,11 @@ RESTful API for SwiftPanda
 
 Can call current weather data by city name. 
 
-##API call:
+API call:
 localhost:3000/weather?city={city name}
 localhost:3000/weather?cities={city1 name, city2 name, city3 name, ...}
 
-##API response:
+API response:
 {
     "city_name": "Toronto",
     "unit": "Celsius",
