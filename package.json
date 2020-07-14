@@ -4,19 +4,21 @@
   "description": "RESTful API for WeatherApp",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nocturnal-999/WeatherApp.Sample.git"
   },
-  "author": "",
+  "author": "Harry",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Nocturnal-999/WeatherApp.Sample/issues"
   },
   "homepage": "https://github.com/Nocturnal-999/WeatherApp.Sample#readme",
   "dependencies": {
+    "dataformat": "^1.0.0",
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
     "fetch": "^1.1.0",
