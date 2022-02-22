@@ -1,6 +1,4 @@
-# WeatherApp.Sample
-
-RESTful API for SwiftPanda
+# WeatherApp
 
 Can call current weather data by city name. 
 
