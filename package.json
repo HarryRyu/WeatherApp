@@ -20,7 +20,7 @@
   "dependencies": {
     "dataformat": "^1.0.0",
     "dateformat": "^3.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fetch": "^1.1.0",
     "http": "0.0.1-security",
     "request": "^2.88.2"
